@@ -2,4 +2,4 @@ This console application can be used to find Youtube channels based on certain k
 
 **Requirements:**
 
-You simply need a Youtube API key for it to work.
+You simply need a Youtube API key for it to work. Tutorial on how to get one [here](https://www.youtube.com/watch?v=LLAZUTbc97I).
