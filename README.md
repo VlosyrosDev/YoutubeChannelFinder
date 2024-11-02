@@ -14,3 +14,8 @@ You simply need a Youtube API key for it to work. Tutorial on how to get one [he
 3. Run the .exe and follow the instructions that are given.
 
 (Note: The "config.txt" is important, keep it in the same folder as the .exe)
+
+
+**Source code:**
+
+You can check out the source code(YoutubeChannelFinder.py) but be warned that I didn't write in Python for a long time so the code is about as messy as it gets.
